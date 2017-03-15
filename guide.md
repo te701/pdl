@@ -1,6 +1,8 @@
 Guide for DBAG on GitHub.com
 ============================
 
+[![Slack Chat](https://img.shields.io/badge/Chat-Slack-ff69b4.svg "Join our #productlab channel!")](https://dbg-devops.slack.com/messages/productlab/)
+
 Deutsche Boerse uses GitHub.com in cases of external collaboration, open source software developement or in case of experimentation.  
 This guide should give you basic understanding of reasons, why, when and how to use repositories under this organisation.
 
